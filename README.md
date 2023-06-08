@@ -18,7 +18,7 @@
 
 [Anguilla](https://junguler.github.io/listen_to_zeno.fm/things/Anguilla.html) 
 
-[Antigua_-_Barbuda](https://junguler.github.io/listen_to_zeno.fm/things/Antigua_-_Barbuda.html) 
+[Antigua-Barbuda](https://junguler.github.io/listen_to_zeno.fm/things/Antigua_-_Barbuda.html) 
 
 [Arabic_(Algeria)](https://junguler.github.io/listen_to_zeno.fm/things/Arabic_(Algeria).html) 
 
@@ -126,7 +126,7 @@
 
 [Borana](https://junguler.github.io/listen_to_zeno.fm/things/Borana.html) 
 
-[Bosnia_-_Herzegovina](https://junguler.github.io/listen_to_zeno.fm/things/Bosnia_-_Herzegovina.html) 
+[Bosnia-Herzegovina](https://junguler.github.io/listen_to_zeno.fm/things/Bosnia_-_Herzegovina.html) 
 
 [Botswana](https://junguler.github.io/listen_to_zeno.fm/things/Botswana.html) 
 
@@ -664,7 +664,7 @@
 
 [San_Marino](https://junguler.github.io/listen_to_zeno.fm/things/San_Marino.html) 
 
-[Sao_Tome_-_Principe](https://junguler.github.io/listen_to_zeno.fm/things/Sao_Tome_-_Principe.html) 
+[Sao_Tome-Principe](https://junguler.github.io/listen_to_zeno.fm/things/Sao_Tome_-_Principe.html) 
 
 [Saraiki](https://junguler.github.io/listen_to_zeno.fm/things/Saraiki.html) 
 
@@ -706,7 +706,7 @@
 
 [South_Sudan](https://junguler.github.io/listen_to_zeno.fm/things/South_Sudan.html) 
 
-[Southern_Min_(incl._Hokkien_and_Teochew)](https://junguler.github.io/listen_to_zeno.fm/things/Southern_Min_(incl._Hokkien_and_Teochew).html) 
+[Southern_Min-Hokkien_and_Teochew](https://junguler.github.io/listen_to_zeno.fm/things/Southern_Min_(incl._Hokkien_and_Teochew).html) 
 
 [Spain](https://junguler.github.io/listen_to_zeno.fm/things/Spain.html) 
 
@@ -766,9 +766,9 @@
 
 [St_Maarten](https://junguler.github.io/listen_to_zeno.fm/things/St_Maarten.html) 
 
-[St_Pierre_-_Miquelon](https://junguler.github.io/listen_to_zeno.fm/things/St_Pierre_-_Miquelon.html) 
+[St_Pierre-Miquelon](https://junguler.github.io/listen_to_zeno.fm/things/St_Pierre_-_Miquelon.html) 
 
-[St_Vincent_-_Grenadines](https://junguler.github.io/listen_to_zeno.fm/things/St_Vincent_-_Grenadines.html) 
+[St_Vincent-Grenadines](https://junguler.github.io/listen_to_zeno.fm/things/St_Vincent_-_Grenadines.html) 
 
 [Sudan](https://junguler.github.io/listen_to_zeno.fm/things/Sudan.html) 
 
@@ -818,7 +818,7 @@
 
 [Tonga](https://junguler.github.io/listen_to_zeno.fm/things/Tonga.html) 
 
-[Trinidad_-_Tobago](https://junguler.github.io/listen_to_zeno.fm/things/Trinidad_-_Tobago.html) 
+[Trinidad-Tobago](https://junguler.github.io/listen_to_zeno.fm/things/Trinidad_-_Tobago.html) 
 
 [Tunisia](https://junguler.github.io/listen_to_zeno.fm/things/Tunisia.html) 
 
@@ -832,7 +832,7 @@
 
 [Turkmenistan](https://junguler.github.io/listen_to_zeno.fm/things/Turkmenistan.html) 
 
-[Turks_-_Caicos_Islands](https://junguler.github.io/listen_to_zeno.fm/things/Turks_-_Caicos_Islands.html) 
+[Turks-Caicos_Islands](https://junguler.github.io/listen_to_zeno.fm/things/Turks_-_Caicos_Islands.html) 
 
 [Tuvalu](https://junguler.github.io/listen_to_zeno.fm/things/Tuvalu.html) 
 
@@ -886,7 +886,7 @@
 
 [Wake_Island](https://junguler.github.io/listen_to_zeno.fm/things/Wake_Island.html) 
 
-[Wallis_-_Futuna_Islands](https://junguler.github.io/listen_to_zeno.fm/things/Wallis_-_Futuna_Islands.html) 
+[Wallis-Futuna_Islands](https://junguler.github.io/listen_to_zeno.fm/things/Wallis_-_Futuna_Islands.html) 
 
 [Wu](https://junguler.github.io/listen_to_zeno.fm/things/Wu.html) 
 
@@ -902,7 +902,7 @@
 
 [Yoruba](https://junguler.github.io/listen_to_zeno.fm/things/Yoruba.html) 
 
-[Yue_(incl._Cantonese)](https://junguler.github.io/listen_to_zeno.fm/things/Yue_(incl._Cantonese).html) 
+[Yue_incl-Cantonese](https://junguler.github.io/listen_to_zeno.fm/things/Yue_(incl._Cantonese).html) 
 
 # Z 
 
